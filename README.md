@@ -5,7 +5,6 @@ Este é um projeto de **Cronômetro (Stopwatch)** desenvolvido em **React**, que
 ## 🛠 Tecnologias Utilizadas
 
 - React.js  
-- JavaScript (ES6+)  
 - CSS Puro  
 
 ## 🎨 Funcionalidades
