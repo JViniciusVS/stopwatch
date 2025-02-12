@@ -17,3 +17,7 @@ Este é um projeto de **Cronômetro (Stopwatch)** desenvolvido em **React**, que
 ## 📷 Prévia do Projeto
 
 ![Prévia do Stopwatch](src/assets/stopwatch-preview.png)
+
+## 📜 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
