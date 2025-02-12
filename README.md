@@ -1,8 +1,20 @@
-# React + Vite
+# ⏱ Stopwatch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de **Cronômetro (Stopwatch)** desenvolvido em **React**, que permite iniciar, pausar e redefinir um contador de tempo. O tempo é exibido no formato **HH:MM:SS:MS** e atualizado em tempo real.
 
-Currently, two official plugins are available:
+## 🛠 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js  
+- JavaScript (ES6+)  
+- CSS Puro  
+
+## 🎨 Funcionalidades
+
+- Iniciar, pausar e redefinir o cronômetro.  
+- Exibição precisa do tempo no formato **Horas:Minutos:Segundos:Milissegundos**.  
+- Atualização dinâmica do tempo a cada 10ms.  
+- Interface intuitiva com botões interativos.  
+
+## 📷 Prévia do Projeto
+
+![Prévia do Stopwatch](src/assets/stopwatch-preview.png)
